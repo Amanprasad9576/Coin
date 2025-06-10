@@ -20,7 +20,10 @@ Track real-time cryptocurrency prices using data from the CoinGecko API.
 
 -  **Suspense & Error Boundaries**: Suspense and error boundaries implemented
 
-Currently, two official plugins are available:
+##  Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 
+
+<img width="1429" alt="First" src="https://github.com/user-attachments/assets/51951767-1f4a-4205-8420-926a8a9e6caa" />
+
+<img width="1429" alt="Second" src="https://github.com/user-attachments/assets/aeca420d-21d1-4310-b114-a67eef4af2f7" />
