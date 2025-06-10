@@ -1,6 +1,24 @@
-# React + Vite
+#  Crypto Currency Price Tracking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Track real-time cryptocurrency prices using data from the CoinGecko API.
+
+🔗 **Deployed URL**: https://coin-mauve-three.vercel.app/
+
+---
+
+## Features
+
+-  **Reusable Components**:Reusable components made using presenter container pattern
+
+-  **Custom Hooks**: Custom hooks implemented
+
+-  **Zustand for State Management**:State management done by zustand
+
+-  **CoinGecko Free API**: Consuming CoinGecko Free API
+
+-  **API Caching with React Query**: API requests are cached using React query
+
+-  **Suspense & Error Boundaries**: Suspense and error boundaries implemented
 
 Currently, two official plugins are available:
 
